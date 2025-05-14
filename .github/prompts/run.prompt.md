@@ -1,5 +1,6 @@
 ---
 mode: 'agent'
 tools: ['gitmcp', 'code-reasoning', 'perplexity_ask', 'tavily-mcp']
-description: 'Compile the information from the articles and make script files as instructed.'
+description: 'Add a description for the agent'
+name: 'Run'
 ---
