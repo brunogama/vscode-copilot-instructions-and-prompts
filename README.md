@@ -36,6 +36,7 @@ This repository provides a structured set of instructions, prompts, and custom a
 
 - [GitHub Copilot Custom Instructions Documentation](https://docs.github.com/en/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot)
 - [VS Code Copilot Customization & Prompt Files](https://code.visualstudio.com/docs/copilot/copilot-customization)
+- [spec-driven-app-temmplate](https://github.com/jamesmontemagno/spec-driven-app-template)
 
 ---
 Feel free to contribute improvements or new instruction sets via pull requests!
